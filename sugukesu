@@ -1,0 +1,10 @@
+let nF = function(x){
+    console.log(x);
+}
+
+let aF = (y) => {
+    console.log(y);
+}
+
+nF('今までの関数');
+aF('アロー関数');
